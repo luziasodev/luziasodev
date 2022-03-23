@@ -5,10 +5,25 @@ id="header" align="center">
 
 # _Welcome!_ 
 
-## ![Luzia's GitHub stats](https://github-readme-stats.vercel.app/api?username=luziasodev&show_icons=true&theme=cobalt&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luziasodev&layout=compact&theme=cobalt)](https://github.com/luziasodev/github-readme-stats)
+<div 
+     align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luziasodev&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luziasodev&layout=compact&langs_count=7&theme=cobalt"/>
+</div>
 
-♡✧･ﾟ: ✧･ﾟ:✧･ﾟ: ✧･ﾟ:✧･ﾟ: ✧･ﾟ:✧･ﾟ: ✧･ﾟ:✧･ﾟ: ✧･ﾟ:✧･ﾟ: ✧･ﾟ:✧･ﾟ: ✧･ﾟ:✧･ﾟ: ✧･ﾟ: ✧･ﾟ:✧･ﾟ: ✧･ﾟ: ✧･ﾟ:✧･ﾟ: ✧･ﾟ:✧･ﾟ: ✧･ﾟ:✧･ﾟ: ✧･ﾟ:✧♡
+
+<div 
+align="center">
+  ♡✧･ﾟ: ✧･ﾟ:✧･ﾟ: ✧･ﾟ:✧･ﾟ: ✧･ﾟ:✧･ﾟ: ✧･ﾟ:✧･ﾟ: ✧･ﾟ:✧･ﾟ: ✧･ﾟ:✧･ﾟ: ✧･ﾟ:✧･ﾟ: ✧･ﾟ: ✧･ﾟ:✧･ﾟ: ✧･ﾟ: ✧･ﾟ:✧･ﾟ: ✧･ﾟ:✧･ﾟ: ✧･ﾟ:✧･ﾟ: ✧･ﾟ:✧♡
+</div>
+  
+<br>
+  
+<div
+align="center">
+Hello, my name is Maria Luzia Sodré and I'm studying to become a web developer
+</div>
+  
 ## what i'm learning
 <div style="display: inline_block"><br>
 <img align= "center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
