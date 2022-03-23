@@ -8,9 +8,14 @@ id="header" align="center">
 <div 
      align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luziasodev&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luziasodev&layout=compact&langs_count=7&theme=cobalt"/>
+  
+</div>
+<div 
+     align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luziasodev&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 
+<br>
 
 <div 
 align="center">
