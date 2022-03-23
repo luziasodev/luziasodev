@@ -6,6 +6,7 @@ id="header" align="center">
 # _Welcome!_ 
 
 ## ![Luzia's GitHub stats](https://github-readme-stats.vercel.app/api?username=luziasodev&show_icons=true&theme=cobalt&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luziasodev&layout=compact&theme=cobalt)](https://github.com/luziasodev/github-readme-stats)
 
 ♡✧･ﾟ: ✧･ﾟ:✧･ﾟ: ✧･ﾟ:✧･ﾟ: ✧･ﾟ:✧･ﾟ: ✧･ﾟ:✧･ﾟ: ✧･ﾟ:✧･ﾟ: ✧･ﾟ:✧･ﾟ: ✧･ﾟ:✧･ﾟ: ✧･ﾟ: ✧･ﾟ:✧･ﾟ: ✧･ﾟ: ✧･ﾟ:✧･ﾟ: ✧･ﾟ:✧･ﾟ: ✧･ﾟ:✧･ﾟ: ✧･ﾟ:✧♡
 ## what i'm learning
