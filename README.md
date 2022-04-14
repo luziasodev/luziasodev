@@ -43,6 +43,6 @@ Hello, my name is Maria Luzia Sodré and I'm studying to become a web developer
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/maria-luzia-sodr%C3%A9-8753a01b6/)](https://www.linkedin.com/in/maria-luzia-sodr%C3%A9-8753a01b6/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:luziasodev@gmail.com)](mailto:luziasodev@gmail.com)
 
-- Thanks for visiting. 
+- Thanks for visiting
  
 
